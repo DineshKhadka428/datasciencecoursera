@@ -1,0 +1,13 @@
+total 38K
+drwxr-xr-x 1 i80430 1049089   0 Apr 30 11:28 EDA_CP2/
+drwxr-xr-x 1 i80430 1049089   0 Apr 30 11:13 ExData_Plotting1/
+drwxr-xr-x 1 i80430 1049089   0 Apr 30 10:55 Getting_And_Cleaning_data/
+-rw-r--r-- 1 i80430 1049089 13K Apr 30 15:36 git1.txt
+-rw-r--r-- 1 i80430 1049089  26 Apr 29 15:35 HelloWorld.md
+-rw-r--r-- 1 i80430 1049089 434 Apr 29 17:15 link.txt
+drwxr-xr-x 1 i80430 1049089   0 Apr 30 15:25 Practical_Machine/
+drwxr-xr-x 1 i80430 1049089   0 Apr 30 10:21 ProgrammingAssignment2/
+drwxr-xr-x 1 i80430 1049089   0 Apr 30 14:17 Regression_Model/
+drwxr-xr-x 1 i80430 1049089   0 Apr 30 13:06 RepData_PeerAssessment1/
+drwxr-xr-x 1 i80430 1049089   0 Apr 30 13:56 Statistical Inference/
+-rw-r--r-- 1 i80430 1049089   0 Apr 30 15:36 test.txt
