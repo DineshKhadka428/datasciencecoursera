@@ -1,0 +1,4 @@
+total 1.0K
+drwxr-xr-x 1 i80430 1049089  0 Apr 30 15:40 Getting_And_Cleaning_data/
+-rw-r--r-- 1 i80430 1049089 26 Apr 30 15:40 HelloWorld.md
+-rw-r--r-- 1 i80430 1049089  0 Apr 30 15:41 test.txt
